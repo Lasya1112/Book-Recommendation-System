@@ -1,0 +1,29 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environment
+venv/
+env/
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code settings
+.vscode/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Environment files (if any)
+.env
+
+# If you plan to keep data in repo, DO NOT ignore CSV or PKL
+# Otherwise, uncomment below lines to ignore them:
+# *.csv
+# *.pkl
