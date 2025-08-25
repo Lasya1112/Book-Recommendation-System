@@ -26,8 +26,10 @@ A Flask-based web application that recommends books based on popularity and coll
    cd book-recommender-system
 
    -> Install Dependencies:
+    ```bash
    pip install -r requirements.txt
 
    -> Run the Flask app:
+   ```bash
    python app.py
 
