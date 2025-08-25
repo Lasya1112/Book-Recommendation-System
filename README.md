@@ -21,15 +21,12 @@ A Flask-based web application that recommends books based on popularity and coll
 ##  How to Run the Project
 
    ->  Clone this repository:
-   ```bash
    git clone https://github.com/Lasya1112/Book-Recommendation-System.git
    cd book-recommender-system
 
    -> Install Dependencies:
-    ```bash
    pip install -r requirements.txt
 
    -> Run the Flask app:
-   ```bash
    python app.py
 
